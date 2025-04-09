@@ -1,0 +1,14 @@
+[
+  {
+    "username": "vitalik",
+    "fid": "1234",
+    "bio": "Ethereum builder",
+    "pfp": "https://i.imgur.com/pfp1.png"
+  },
+  {
+    "username": "alice",
+    "fid": "5678",
+    "bio": "Crypto artist",
+    "pfp": "https://i.imgur.com/pfp2.png"
+  }
+]
